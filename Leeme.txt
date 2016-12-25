@@ -1,0 +1,15 @@
+Para que el proyecto funcione es necesario copiar la carpeta "Libs" y colocarla en "C:\" para que el juego no tenga problemas a la hora de compilar y correr
+
+Modificar mapas:
+	-Archivo debe contener una sección 20x20 que representa el suelo del juego
+		- 0 suelo
+		- 1 pared
+		- 4 meta
+	- Otra sección más abajo de la primera contentrá al personaje y las cajas. 1 solo personaje y se recomienda la misma cantidad de cajas para la cantidad  de metas
+		- 2 Caja
+		- 3 personaje
+
+Modificar imagenes:
+	Si se modifican las imagenes se recomienda usar las de ubicadas en la carpeta "PNG", y que sean las mismas (las cajas con las cajas, las metas con las metas, etc...)
+	Si se desea modificar al personaje usar una imagen de las mismas dimensiones (32px x 32px)
+	Si se cambia una imagen por otra siempre usar el mismo nombre y formato que la anterior

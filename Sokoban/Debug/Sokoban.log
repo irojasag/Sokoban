@@ -1,0 +1,21 @@
+﻿  ventana.cpp
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(153): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(165): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(169): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(173): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(184): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(188): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(208): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(212): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(216): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(227): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(231): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(253): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(254): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(255): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(256): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  main.cpp
+  Generando código...
+c:\users\ignacio\desktop\sokoban\sokoban\ventana.cpp(74): warning C4715: 'ventana::manejaEvento': no todas las rutas de acceso de control devuelven un valor
+  Sokoban.vcxproj -> C:\Users\Ignacio\Desktop\Sokoban\Debug\Sokoban.exe
+  Sokoban.vcxproj -> C:\Users\Ignacio\Desktop\Sokoban\Debug\Sokoban.pdb (Full PDB)
